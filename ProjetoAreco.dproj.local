@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/02/22 16:40:49.000.495,=C:\Users\robso\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/22 16:41:08.000.466,=C:\Users\robso\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/02/22 16:45:24.000.372,C:\Users\robso\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.dfm=I:\ARECO\ProjetoAreco\Unit2.dfm</Transaction>
+    <Transaction>2018/02/22 16:45:24.000.372,C:\Users\robso\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas=I:\ARECO\ProjetoAreco\Unit2.pas</Transaction>
+    <Transaction>2018/02/22 16:45:26.000.069,C:\Users\robso\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=I:\ARECO\ProjetoAreco\Unit1.pas</Transaction>
+    <Transaction>2018/02/22 16:45:26.000.069,C:\Users\robso\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=I:\ARECO\ProjetoAreco\Unit1.dfm</Transaction>
+    <Transaction>2018/02/22 16:45:27.000.475,C:\Users\robso\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=I:\ARECO\ProjetoAreco\Project1.dproj</Transaction>
+    <Transaction>2018/02/22 16:48:00.000.301,I:\ARECO\ProjetoAreco\Unit2.pas=</Transaction>
+    <Transaction>2018/02/22 16:48:00.000.287,I:\ARECO\ProjetoAreco\Unit1.pas=</Transaction>
+    <Transaction>2018/02/22 16:49:22.000.755,=I:\ARECO\ProjetoAreco\unit1.pas</Transaction>
+    <Transaction>2018/02/22 16:49:22.000.738,=I:\ARECO\ProjetoAreco\mzsqliteeasy.pas</Transaction>
+    <Transaction>2018/02/22 16:55:44.000.210,I:\ARECO\ProjetoAreco\unit1.pas=</Transaction>
+    <Transaction>2018/02/22 16:55:55.000.073,=I:\ARECO\ProjetoAreco\Unit3.pas</Transaction>
+    <Transaction>2018/02/22 16:58:24.000.824,=I:\ARECO\ProjetoAreco\Unit1.pas</Transaction>
+    <Transaction>2018/02/22 17:01:12.000.204,I:\ARECO\ProjetoAreco\Unit1.dfm=I:\ARECO\ProjetoAreco\unit1.dfm</Transaction>
+    <Transaction>2018/02/22 17:01:12.000.204,I:\ARECO\ProjetoAreco\Unit1.pas=I:\ARECO\ProjetoAreco\unit1.pas</Transaction>
+    <Transaction>2018/02/23 13:01:00.000.575,=I:\ARECO\ProjetoAreco\uProdutos.pas</Transaction>
+    <Transaction>2018/02/23 13:18:29.000.825,=I:\ARECO\ProjetoAreco\Unit2.pas</Transaction>
+    <Transaction>2018/02/23 13:21:15.000.395,I:\ARECO\ProjetoAreco\Unit2.dfm=I:\ARECO\ProjetoAreco\udmPrincipal.dfm</Transaction>
+    <Transaction>2018/02/23 13:21:15.000.395,I:\ARECO\ProjetoAreco\Unit2.pas=I:\ARECO\ProjetoAreco\udmPrincipal.pas</Transaction>
+    <Transaction>2018/02/23 14:12:33.000.863,I:\ARECO\ProjetoAreco\mzsqliteeasy.pas=</Transaction>
+    <Transaction>2018/02/23 14:25:40.000.507,=I:\ARECO\ProjetoAreco\Unit2.pas</Transaction>
+    <Transaction>2018/02/23 14:26:44.000.325,I:\ARECO\ProjetoAreco\Unit2.pas=I:\ARECO\ProjetoAreco\uCadastroProdutos.pas</Transaction>
+    <Transaction>2018/02/23 14:26:44.000.325,I:\ARECO\ProjetoAreco\Unit2.dfm=I:\ARECO\ProjetoAreco\uCadastroProdutos.dfm</Transaction>
+    <Transaction>2018/02/23 16:56:50.000.493,I:\ARECO\ProjetoAreco\unit1.dfm=I:\ARECO\ProjetoAreco\uPrincipal.dfm</Transaction>
+    <Transaction>2018/02/23 16:56:50.000.493,I:\ARECO\ProjetoAreco\unit1.pas=I:\ARECO\ProjetoAreco\uPrincipal.pas</Transaction>
+    <Transaction>2018/02/23 16:57:07.000.791,I:\ARECO\ProjetoAreco\udmPrincipal.dfm=I:\ARECO\ProjetoAreco\udm.dfm</Transaction>
+    <Transaction>2018/02/23 16:57:07.000.791,I:\ARECO\ProjetoAreco\udmPrincipal.pas=I:\ARECO\ProjetoAreco\udm.pas</Transaction>
+    <Transaction>2018/02/26 11:41:25.480,I:\ARECO\ProjetoAreco\ProjetoAreco.dproj=I:\ARECO\ProjetoAreco\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

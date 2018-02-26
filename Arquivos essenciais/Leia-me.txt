@@ -1,0 +1,5 @@
+
+Os arquivos desta pasta são essenciais para o funcionamento do sistema.
+
+ArecoDB.db // É a base de dados em SQLite
+sqlite3_library.dll // É a biblioteca para o SQLite
